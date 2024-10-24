@@ -1,16 +1,14 @@
 clauses:
   - clause:
-      number: 4
-      name: Reporting implementation
+      name: 4 Reporting implementation
       provisions:
         - provision:
-            id: 4-1
+            id: "4.1"
             requirement_level: M
             implemented: false
             mapping: 
   - clause:
-      number: 5.1
-      name: No universal default passwords
+      name: 5.1 No universal default passwords
       provisions:
         - provision:
             id: 5.1-1
@@ -38,8 +36,7 @@ clauses:
             implemented: false
             mapping: 
   - clause:
-      number: 5.2
-      name: Implement a means to manage reports of vulnerabilities
+      name: 5.2 Implement a means to manage reports of vulnerabilities
       provisions:
         - provision:
             id: 5.2-1
@@ -57,8 +54,7 @@ clauses:
             implemented: false
             mapping: 
   - clause:
-      number: 5.3
-      name: Keep software updated
+      name: 5.3 Keep software updated
       provisions:
         - provision:
             id: 5.3-1
@@ -141,8 +137,7 @@ clauses:
             implemented: false
             mapping: 
   - clause:
-      number: 5.4
-      name: Securely store sensitive security parameters
+      name: 5.4 Securely store sensitive security parameters
       provisions:
         - provision:
             id: 5.4-1
@@ -165,8 +160,7 @@ clauses:
             implemented: false
             mapping: 
   - clause:
-      number: 5.5
-      name: Communicate securely
+      name: 5.5 Communicate securely
       provisions:
         - provision:
             id: 5.5-1
@@ -209,8 +203,7 @@ clauses:
             implemented: false
             mapping: 
   - clause:
-      number: 5.6
-      name: Minimize exposed attack surfaces
+      name: 5.6 Minimize exposed attack surfaces
       provisions:
         - provision:
             id: 5.6-1
@@ -258,8 +251,7 @@ clauses:
             implemented: false
             mapping: 
   - clause:
-      number: 5.7
-      name: Ensure software integrity
+      name: 5.7 Ensure software integrity
       provisions:
         - provision:
             id: 5.7-1
@@ -272,8 +264,7 @@ clauses:
             implemented: false
             mapping: 
   - clause:
-      number: 5.8
-      name: Ensure that personal data is secure
+      name: 5.8 Ensure that personal data is secure
       provisions:
         - provision:
             id: 5.8-1
@@ -291,8 +282,7 @@ clauses:
             implemented: false
             mapping: 
   - clause:
-      number: 5.9
-      name: Make systems resilient to outages
+      name: 5.9 Make systems resilient to outages
       provisions:
         - provision:
             id: 5.9-1
@@ -310,33 +300,15 @@ clauses:
             implemented: false
             mapping: 
   - clause:
-      number: 5.10
-      name: Examine system telemetry data
+      name: 5.10 Examine system telemetry data
       provisions:
         - provision:
             id: 5.10-1
-            requirement_level: R
+            requirement_level: R C
             implemented: false
             mapping: 
   - clause:
-      number: 5.11
-      name: Make it easy for users to delete user data
-      provisions:
-        - provision:
-            id: 5.11-1
-            requirement_level: M
-            implemented: false
-            mapping: 
-        - provision:
-            id: 5.11-2
-            requirement_level: R
-            implemented: false
-            mapping: 
-        - provision:
-            id: 5.11-3
-  - clause:
-      number: 5.11
-      name: Make it easy for users to delete user data
+      name: 5.11 Make it easy for users to delete user data
       provisions:
         - provision:
             id: 5.11-1
@@ -359,8 +331,7 @@ clauses:
             implemented: false
             mapping: 
   - clause:
-      number: 5.12
-      name: Make installation and maintenance of devices easy
+      name: 5.12 Make installation and maintenance of devices easy
       provisions:
         - provision:
             id: 5.12-1
@@ -378,8 +349,7 @@ clauses:
             implemented: false
             mapping: 
   - clause:
-      number: 5.13
-      name: Validate input data
+      name: 5.13 Validate input data
       provisions:
         - provision:
             id: 5.13-1
@@ -387,31 +357,30 @@ clauses:
             implemented: false
             mapping: 
   - clause:
-      number: 6
-      name: Data protection provisions for consumer IoT
+      name: 6 Data protection provisions for consumer IoT
       provisions:
         - provision:
-            id: 6.1
+            id: "6.1"
             requirement_level: M
             implemented: false
             mapping: 
         - provision:
-            id: 6.2
+            id: "6.2"
             requirement_level: M C
             implemented: false
             mapping: 
         - provision:
-            id: 6.3
+            id: "6.3"
             requirement_level: M
             implemented: false
             mapping: 
         - provision:
-            id: 6.4
+            id: "6.4"
             requirement_level: R C
             implemented: false
             mapping: 
         - provision:
-            id: 6.5
+            id: "6.5"
             requirement_level: M C
             implemented: false
             mapping: 
