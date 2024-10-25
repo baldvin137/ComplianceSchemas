@@ -1,0 +1,29 @@
+---
+type: object
+properties:
+  clause:
+    type: object
+    properties:
+      name:
+        type: string
+      provision:
+        type: object
+        properties:
+          id:
+            type: string
+          description:
+            type: string
+          requirement_level:
+            type: string
+          implemented:
+            type: boolean
+          mapping:
+            type: string
+        required:
+          - id
+          - requirement_level
+    required:
+      - name
+      - provision
+required:
+  - clause
