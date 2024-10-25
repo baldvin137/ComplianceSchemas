@@ -1,0 +1,141 @@
+clauses:
+  - clause:
+      name: Annex I Part I Cybersecurity requirements for products 
+      provisions:
+        - provision:
+            id: I.I.1
+            description: designed, developed and produced based on risk
+            requirement_level: M
+            implemented: false
+            mapping: 
+        - provision:
+            id: I.I.2a
+            description: available without known exploitable vulnerabilities
+            requirement_level: M
+            implemented: false
+            mapping: 
+        - provision:
+            id: I.I.2b
+            description: secure by default configuration
+            requirement_level: M
+            implemented: false
+            mapping: 
+        - provision:
+            id: I.I.2c
+            description: vulnerabilities addressed through security updates
+            requirement_level: M
+            implemented: false
+            mapping: 
+        - provision:
+            id: I.I.2d
+            description: protection from unauthorised access
+            requirement_level: M
+            implemented: false
+            mapping: 
+        - provision:
+            id: I.I.2e
+            description: protect confidentiality of data
+            requirement_level: M
+            implemented: false
+            mapping: 
+        - provision:
+            id: I.I.2f
+            description: protect integrity of data
+            requirement_level: M
+            implemented: false
+            mapping: 
+        - provision:
+            id: I.I.2g
+            description: data minimisation
+            requirement_level: M
+            implemented: false
+            mapping: 
+        - provision:
+            id: I.I.2h
+            description: protect availability of functions
+            requirement_level: M
+            implemented: false
+            mapping: 
+        - provision:
+            id: I.I.2i
+            description: minimise negative impact on services
+            requirement_level: M
+            implemented: false
+            mapping: 
+        - provision:
+            id: I.I.2j
+            description: limit attack surfaces
+            requirement_level: M
+            implemented: false
+            mapping: 
+        - provision:
+            id: I.I.2k
+            description: reduce impact of incidents
+            requirement_level: M
+            implemented: false
+            mapping: 
+        - provision:
+            id: I.I.2l
+            description: record and monitor activity
+            requirement_level: M
+            implemented: false
+            mapping: 
+        - provision:
+            id: I.I.2m
+            description: securely remove data and settings
+            requirement_level: M
+            implemented: false
+            mapping: 
+  - clause:
+      name: Annex I Part II Vulnerability handling requirements
+      provisions:
+        - provision:
+            id: I.II.1
+            description: identify and document vulnerabilities and components
+            requirement_level: M
+            implemented: false
+            mapping: 
+        - provision:
+            id: I.II.2
+            description: address and remediate vulnerabilities without delay
+            requirement_level: M
+            implemented: false
+            mapping: 
+        - provision:
+            id: I.II.3
+            description: apply effective and regular tests and reviews
+            requirement_level: M
+            implemented: false
+            mapping: 
+        - provision:
+            id: I.II.4
+            description: share and publicly disclose fixed vulnerabilities
+            requirement_level: M
+            implemented: false
+            mapping: 
+        - provision:
+            id: I.II.5
+            description: enforce policy on coordinated vulnerability disclosure
+            requirement_level: M
+            implemented: false
+            mapping: 
+        - provision:
+            id: I.II.6
+            description: facilitate sharing of information about vulnerabilities
+            requirement_level: M
+            implemented: false
+            mapping: 
+        - provision:
+            id: I.II.7
+            description: securely distribute updates to fix or mitigate vulnerabilities
+            requirement_level: M
+            implemented: false
+            mapping: 
+        - provision:
+            id: I.II.8
+            description: disseminate security updates without delay
+            requirement_level: M
+            implemented: false
+            mapping: 
+
+
